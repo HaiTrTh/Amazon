@@ -39,3 +39,7 @@
 .payment__section-address,.payment__section-item, .payment__section-cart{
     flex:  0.8;
 }
+
+.payment__section-cart{
+  
+}
