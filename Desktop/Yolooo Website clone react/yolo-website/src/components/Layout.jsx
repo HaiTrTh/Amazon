@@ -6,8 +6,7 @@ import Header from './Header'
 import Footer from './Footer'
 // import ProductViewModal from './ProductViewModal'
 import Routess from '../routes/Routess'
-import Home from '../pages/Home'
-import Product from '../pages/Product'
+
 
 const Layout = () => {
   return (
@@ -18,9 +17,8 @@ const Layout = () => {
           <Header {...props} />
           <div className="container">
             <div className="main">
-              {/* <Routess /> */}
-              <Home />
-              {/* <Product /> */}
+              <Routess />
+
             </div>
           </div>
           <Footer />

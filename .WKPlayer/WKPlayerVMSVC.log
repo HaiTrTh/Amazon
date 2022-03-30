@@ -1,0 +1,109 @@
+VirtualBox COM Server 5.2.36 r135684 win.amd64 (Jul 15 2021 14:08:41) release log
+00:00:00.004879 main     Log opened 2021-11-12T15:18:54.812616500Z
+00:00:00.004879 main     Build Type: release
+00:00:00.004879 main     OS Product: Windows 10
+00:00:00.004879 main     OS Release: 10.0.19043
+00:00:00.004879 main     OS Service Pack: 
+00:00:00.019520 main     DMI Product Name: Nitro AN515-55
+00:00:00.028304 main     DMI Product Version: V1.08
+00:00:00.028304 main     Host RAM: 16215MB (15.8GB) total, 9646MB (9.4GB) available
+00:00:00.028304 main     Executable: C:\Program Files (x86)\WakuooVM\WKPlayerVM\RT\WKPlayerVMSVC.exe
+00:00:00.028304 main     Process ID: 19896
+00:00:00.028304 main     Package type: WINDOWS_64BITS_GENERIC (OSE)
+00:00:00.031232          VirtualBox: object creation starts
+00:00:00.031232          Home directory: 'C:\Users\hai18\.WKPlayer'
+00:00:00.031232          Installed Drivers:
+00:00:00.042944          Loading settings file "C:\Users\hai18\.WKPlayer\WKPlayerVM.xml" with version "1.12-windows"
+00:00:00.043920          USBLibInit: USB Service not found
+00:00:00.054655          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:00:00.064415          HostDnsMonitor::updateInfo
+00:00:00.064415          HostDnsMonitor: old information
+00:00:00.064415            no server entries
+00:00:00.064415            no domain set
+00:00:00.064415            no search string entries
+00:00:00.064415          HostDnsMonitor: new information
+00:00:00.064415            server 1: 123.26.26.26
+00:00:00.064415            server 2: 123.23.23.23
+00:00:00.064415            domain: Home
+00:00:00.064415            no search string entries
+00:00:00.064415          VD: VDInit finished with VINF_SUCCESS
+00:00:00.065391          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={20210715-495e-5a36-8890-29999b5f030c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.065391          VirtualBox: object created
+00:00:00.109312          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20210715-f1a1-448a-10c5-e12f5285adad} aComponent={VirtualBoxWrap} aText={Could not find a registered machine named 'WKPlayer'}, preserve=false aResultDetail=0
+00:00:00.141520          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20210715-f1a1-448a-10c5-e12f5285adad} aComponent={VirtualBoxWrap} aText={Could not find a registered machine named 'WKPlayer'}, preserve=false aResultDetail=0
+00:00:00.141520          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20210715-f1a1-448a-10c5-e12f5285adad} aComponent={VirtualBoxWrap} aText={Could not find a registered machine named 'WKPlayer'}, preserve=false aResultDetail=0
+00:00:00.157136          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={20210715-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:00.165919          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={20210715-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:00.174704          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20210715-f1a1-448a-10c5-e12f5285adad} aComponent={VirtualBoxWrap} aText={Could not find a registered machine named 'WKPlayer'}, preserve=false aResultDetail=0
+00:00:00.175679          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20210715-f1a1-448a-10c5-e12f5285adad} aComponent={VirtualBoxWrap} aText={Could not find a registered machine named 'WKPlayer'}, preserve=false aResultDetail=0
+00:00:00.176656          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={20210715-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:00.183488          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={20210715-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:00.192272          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20210715-f1a1-448a-10c5-e12f5285adad} aComponent={VirtualBoxWrap} aText={Could not find a registered machine named 'WKPlayer'}, preserve=false aResultDetail=0
+00:00:00.193247          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20210715-f1a1-448a-10c5-e12f5285adad} aComponent={VirtualBoxWrap} aText={Could not find a registered machine named 'base7'}, preserve=false aResultDetail=0
+00:00:00.194226          Loading settings file "D:\Program Files\WKPlayer\bin\data\base7\base7.vbox" with version "1.15-windows"
+00:00:00.196178          Saving settings file "C:\Users\hai18\.WKPlayer\WKPlayerVM.xml" with version "1.12-windows"
+00:00:00.222527          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={20210715-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:00.223503          Saving settings file "D:\Program Files\WKPlayer\bin\data\base7\base7.vbox" with version "1.15-windows"
+00:00:00.229362 TakeSnap Saving settings file "D:\Program Files\WKPlayer\bin\data\base7\base7.vbox" with version "1.15-windows"
+00:00:00.237168 TakeSnap ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={20210715-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={The object is not ready}, preserve=true  aResultDetail=0
+00:00:00.238144 TakeSnap Saving settings file "D:\Program Files\WKPlayer\bin\data\base7\base7.vbox" with version "1.15-windows"
+00:00:00.240095 TakeSnap Saving settings file "D:\Program Files\WKPlayer\bin\data\base7\base7.vbox" with version "1.15-windows"
+00:00:00.241071 TakeSnap Saving settings file "D:\Program Files\WKPlayer\bin\data\base7\base7.vbox" with version "1.15-windows"
+00:00:00.244975          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20210715-f1a1-448a-10c5-e12f5285adad} aComponent={VirtualBoxWrap} aText={Could not find a registered machine named 'WKPlayer'}, preserve=false aResultDetail=0
+00:00:00.276739          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={20210715-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:00.285523          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={20210715-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:00.286500          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={20210715-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:00.295286          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={20210715-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:00.323590          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20210715-f1a1-448a-10c5-e12f5285adad} aComponent={VirtualBoxWrap} aText={Could not find a registered machine named 'WKPlayer'}, preserve=false aResultDetail=0
+00:00:00.323590          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20210715-f1a1-448a-10c5-e12f5285adad} aComponent={VirtualBoxWrap} aText={Could not find a registered machine named 'WKPlayer'}, preserve=false aResultDetail=0
+00:00:00.339276 MachineClone ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={20210715-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={The object is not ready}, preserve=true  aResultDetail=0
+00:00:00.340253 MachineClone Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:00.341228 MachineClone Saving settings file "D:\Program Files\WKPlayer\bin\data\base7\base7.vbox" with version "1.15-windows"
+00:00:00.344156          Saving settings file "C:\Users\hai18\.WKPlayer\WKPlayerVM.xml" with version "1.12-windows"
+00:00:01.129743          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={20210715-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:01.140479          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={20210715-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:01.140479          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:01.343489          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:01.467439          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:01.540639          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:01.577728          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:01.625552          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:01.675328          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:01.714368          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:01.851984          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:01.880287          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:01.906639          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:01.934943          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:01.965199          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:01.998383          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.031568          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.061823          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.091103          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.120383          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.153567          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.191633          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.228718          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.257999          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.288255          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.318511          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.344863          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.372191          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.401470          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.429776          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.468816          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.506880          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.534207          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.562511          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.591791          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.621070          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:02.677680          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:00:03.521746          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={20210715-4477-787d-60b2-3fa70e56fbbc} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:00:14.797215          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:05:22.188658          Saving settings file "D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer.vbox" with version "1.15-windows"
+00:05:27.930642 main     VirtualBox: object deletion starts
+00:05:27.930642 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={20210715-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={Medium 'D:\Program Files\WKPlayer\bin\data\base7\Snapshots\{83091648-ba40-4994-b295-6c2167731646}.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:05:27.930642 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={20210715-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={Medium 'D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\Snapshots\{5f454d3f-7178-403d-8c81-7e5609a9935b}.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:05:27.930642 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={20210715-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={Medium 'D:\Program Files\WKPlayer\bin\data\base7\base7-disk1.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:05:27.931617 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={20210715-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={Medium 'D:\Program Files\WKPlayer\bin\WKPlayerVMS\WKPlayer\WKPlayer-disk2.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:05:27.932593 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={20210715-f1a1-448a-10c5-e12f5285adad} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:05:27.932593 main     VirtualBox: object deleted

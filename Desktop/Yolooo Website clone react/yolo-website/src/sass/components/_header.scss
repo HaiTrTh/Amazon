@@ -7,14 +7,14 @@
   z-index: 99;
   height: $header-height;
   transition: height .3s ease-in;
-  box-shadow: $box-shadow;
+  // box-shadow: $box-shadow;
 
   @include tablet {
     height:  $header-tablet-height;
     box-shadow: $box-shadow;
-  }
+  } 
   @include mobile {
-    height:  $header-tablet-height;
+    height:  $header-mobile-height;
   }
 
   .container{

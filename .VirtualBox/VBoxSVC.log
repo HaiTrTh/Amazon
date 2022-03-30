@@ -1,0 +1,139 @@
+00:00:00.002524 main     VirtualBox COM Server 6.1.32 r149290 win.amd64 (Jan 17 2022 11:29:30) release log
+00:00:00.002526 main     Log opened 2022-03-10T23:29:08.621339700Z
+00:00:00.002527 main     Build Type: release
+00:00:00.002557 main     OS Product: Windows 11
+00:00:00.002557 main     OS Release: 10.0.22000
+00:00:00.002558 main     OS Service Pack: 
+00:00:00.014496 main     DMI Product Name: Nitro AN515-55
+00:00:00.020514 main     DMI Product Version: V1.08
+00:00:00.020538 main     Firmware type: UEFI
+00:00:00.021092 main     Secure Boot: Enabled
+00:00:00.021105 main     Host RAM: 16215MB (15.8GB) total, 7075MB (6.9GB) available
+00:00:00.021133 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.021134 main     Process ID: 17652
+00:00:00.021134 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.503489          VirtualBox: object creation starts
+00:00:00.503790          Home directory: 'C:\Users\hai18\.VirtualBox'
+00:00:00.503920          Installed Drivers:
+00:00:00.509146            C:\WINDOWS\system32\DRIVERS\VBoxSup.sys (Version: 6.1.32.49290)
+00:00:00.509391            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.32.49290)
+00:00:00.509649            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.32.49290)
+00:00:00.509905            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.32.49290)
+00:00:00.512198          usbLibGetDevices: Starting USB device enumeration
+00:00:00.513102          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&501fcd9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:00.513150          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&501fcd9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:00:00.513766          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.514043          USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb64f)
+00:00:00.514082          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0026)
+00:00:00.536439          HostDnsMonitor: initializing
+00:00:00.542664          HostDnsMonitor: updating information
+00:00:00.542712          HostDnsMonitor: old information
+00:00:00.542712            no server entries
+00:00:00.542713            no domain set
+00:00:00.542713            no search string entries
+00:00:00.542714          HostDnsMonitor: new information
+00:00:00.542714            server 1: 172.20.10.1
+00:00:00.542714            no domain set
+00:00:00.542715            no search string entries
+00:00:00.596415          VD: VDInit finished with VINF_SUCCESS
+00:00:00.597498          VirtualBox: object created
+00:00:03.355114          Saving settings file "C:\Users\hai18\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:03.357839          Saving settings file "C:\Users\hai18\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:43.827656 dns-monitor HostDnsMonitor: updating information
+00:00:43.827693 dns-monitor HostDnsMonitor: old information
+00:00:43.827699 dns-monitor   server 1: 172.20.10.1
+00:00:43.827703 dns-monitor   no domain set
+00:00:43.827706 dns-monitor   no search string entries
+00:00:43.827711 dns-monitor HostDnsMonitor: new information
+00:00:43.827714 dns-monitor   server 1: 192.168.1.1
+00:00:43.827718 dns-monitor   no domain set
+00:00:43.827721 dns-monitor   no search string entries
+00:00:57.276090 dns-monitor HostDnsMonitor: updating information
+00:00:57.276122 dns-monitor HostDnsMonitor: unchanged
+00:05:07.386584 dns-monitor HostDnsMonitor: updating information
+00:05:07.386672 dns-monitor HostDnsMonitor: unchanged
+00:05:31.031532 dns-monitor HostDnsMonitor: updating information
+00:05:31.031610 dns-monitor HostDnsMonitor: unchanged
+00:09:13.069042 dns-monitor HostDnsMonitor: updating information
+00:09:13.069164 dns-monitor HostDnsMonitor: old information
+00:09:13.069187 dns-monitor   server 1: 192.168.1.1
+00:09:13.069204 dns-monitor   no domain set
+00:09:13.069221 dns-monitor   no search string entries
+00:09:13.069237 dns-monitor HostDnsMonitor: new information
+00:09:13.069355 dns-monitor   no server entries
+00:09:13.069382 dns-monitor   no domain set
+00:09:13.069396 dns-monitor   no search string entries
+00:12:20.496397 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:12:20.497874 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&501fcd9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:12:20.497952 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&501fcd9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:12:20.498079 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:12:22.026582 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:12:22.028070 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&501fcd9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:12:22.028151 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&501fcd9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:12:22.028274 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:12:59.098109 dns-monitor HostDnsMonitor: updating information
+00:12:59.098203 dns-monitor HostDnsMonitor: old information
+00:12:59.098212 dns-monitor   no server entries
+00:12:59.098219 dns-monitor   no domain set
+00:12:59.098240 dns-monitor   no search string entries
+00:12:59.098246 dns-monitor HostDnsMonitor: new information
+00:12:59.098252 dns-monitor   server 1: 192.168.1.1
+00:12:59.098258 dns-monitor   no domain set
+00:12:59.098264 dns-monitor   no search string entries
+00:13:29.710976 dns-monitor HostDnsMonitor: updating information
+00:13:29.711060 dns-monitor HostDnsMonitor: unchanged
+00:13:55.200496 dns-monitor HostDnsMonitor: updating information
+00:13:55.200597 dns-monitor HostDnsMonitor: unchanged
+00:15:12.090349 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:15:12.092421 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&501fcd9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:15:12.092688 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&501fcd9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:15:12.093092 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:24:13.241343 dns-monitor HostDnsMonitor: updating information
+00:24:13.241464 dns-monitor HostDnsMonitor: old information
+00:24:13.241485 dns-monitor   server 1: 192.168.1.1
+00:24:13.241502 dns-monitor   no domain set
+00:24:13.241519 dns-monitor   no search string entries
+00:24:13.241534 dns-monitor HostDnsMonitor: new information
+00:24:13.241548 dns-monitor   no server entries
+00:24:13.241562 dns-monitor   no domain set
+00:24:13.241574 dns-monitor   no search string entries
+00:26:24.256912 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:26:24.258334 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&501fcd9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:26:24.258405 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&501fcd9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:26:24.258528 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:26:25.628178 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:26:25.629399 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&501fcd9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:26:25.629466 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&501fcd9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:26:25.629579 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:39:13.338909 dns-monitor HostDnsMonitor: updating information
+00:39:13.339085 dns-monitor HostDnsMonitor: unchanged
+00:40:28.010740 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:40:28.011881 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&501fcd9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:40:28.011986 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&501fcd9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:40:28.012161 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:43:00.484016 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:43:00.485359 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&501fcd9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:43:00.485434 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&501fcd9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:43:00.485552 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:43:01.778447 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:43:01.779869 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&501fcd9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:43:01.779950 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&501fcd9&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:43:01.780077 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:54:13.425556 dns-monitor HostDnsMonitor: updating information
+00:54:13.425648 dns-monitor HostDnsMonitor: unchanged
+01:07:14.208645          Saving settings file "C:\Users\hai18\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:07:14.226530          Saving settings file "C:\Users\hai18\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:07:14.240196          Saving settings file "C:\Users\hai18\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:07:14.246993          Saving settings file "C:\Users\hai18\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:07:14.251884          Saving settings file "C:\Users\hai18\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:07:15.427939          Saving settings file "C:\Users\hai18\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:07:15.433467          Saving settings file "C:\Users\hai18\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:07:15.447235          Saving settings file "C:\Users\hai18\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:07:15.451014          Saving settings file "C:\Users\hai18\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:07:15.455300          Saving settings file "C:\Users\hai18\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:07:17.257792          Saving settings file "C:\Users\hai18\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:07:23.614232 main     VirtualBox: object deletion starts
+01:07:23.615205 main     HostDnsMonitor: shutting down ...
+01:07:23.615307 main     HostDnsMonitor: shut down
+01:07:23.619373 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+01:07:23.620001 main     VirtualBox: object deleted

@@ -10,10 +10,10 @@ import Product from '../pages/Product'
 const Routess = () => {
   return (
     <Switch>
-      <Route path='/' exact element={<Home />} />
-      <Route path='/catalog/:slug' element={<Product />} />
-      <Route path='/catalog' element={<Catalog />} />
-      <Route path='/cart' element={<Cart />} />
+      <Route path='/' exact component={Home} />
+      <Route path='/catalog/:slug' component={Product} />
+      <Route path='/catalog' component={Catalog} />
+      <Route path='/cart' component={Cart} />
     </Switch>
   )
 }

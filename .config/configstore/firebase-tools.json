@@ -1,0 +1,56 @@
+{
+	"analytics-uuid": "141faa1d-be6d-4a06-9fcb-9e3ba83189db",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1647350608431
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "113858920000956760735",
+		"email": "haithanhtran00@gmail.com",
+		"email_verified": true,
+		"at_hash": "G1QCvE7N_4QO8v9uV6XreA",
+		"iat": 1647246903,
+		"exp": 1647250503
+	},
+	"tokens": {
+		"expires_at": 1647400674841,
+		"refresh_token": "1//0e7RaV6IvzZnACgYIARAAGA4SNwF-L9IrqLyCwSo5Io1IZatNWIaBW4NQhsWz9_3eSLdxAC1aPWWdvemIXkO-_3wvt6B_gobwZpE",
+		"scopes": [],
+		"access_token": "ya29.A0ARrdaM86Xudst1eQunJ2B30PMVZRLUOO4dmc1e1j14mSb0Po0X3EUtZK_VyMrd_O1uu-Roi6wYe_BTElNpsjYk00vGAFM9t2DEtgTECNJLITX1ic4fSi68WgWP3clScNYngd9IRgaFvd-QQ67hM23nYtJkOGR0qZ_mBlDA",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly openid https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjcyOTE4OTQ1MGQ0OTAyODU3MDQyNTI2NmYwM2U3MzdmNDVhZjI5MzIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTEzODU4OTIwMDAwOTU2NzYwNzM1IiwiZW1haWwiOiJoYWl0aGFuaHRyYW4wMEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6InNLT2p6MkdSN3VKODlxWWV2UVpNZVEiLCJpYXQiOjE2NDczOTcwNzQsImV4cCI6MTY0NzQwMDY3NH0.XQhsCSTX1nzy-WQeELqx-5bL7EctOu3Oznh1EO64R1HloMrsFKD5XgFJv0uJ8Og7gt_lU6y5E1SZkiPsTdzIgLOEQ0DFSkeIio6aH24GwI5XJcFsdnkNgtYLyrrUHTzbp-otRkmgwquAzbsShNhGaE0sB5tomaJIt84Ka0E81_U1mUT6YIkSbGDGAhm-Q3pPq_OWjbxW17WSeFtxMAGQ7R5Xw-ka-dbGJK6vGVAz0aW6k0ii5gGpl9tkQQyZrPpVOvyHiO-9hRjOmwFKW9ZhnyspjHUSmZuy9tN63T_4W-SowjPuJol6sd0cjrfJV0PQi77ASJXbDvGU_5GRino9Ag"
+	},
+	"activeProjects": {
+		"C:\\Users\\hai18\\Desktop\\amazone-clone": "clone-84c40"
+	},
+	"adminsdkconfig": {
+		"clone-84c40": {
+			"projectId": "clone-84c40",
+			"storageBucket": "clone-84c40.appspot.com"
+		}
+	},
+	"lastError": 1647397084022,
+	"webconfig": {
+		"clone-84c40": {
+			"projectId": "clone-84c40",
+			"appId": "1:156007780682:web:5bde1272e2d064c78bb1b3",
+			"storageBucket": "clone-84c40.appspot.com",
+			"apiKey": "AIzaSyAxqCkdwEtqPMygkL-JzDuPFEWw0X7PFGI",
+			"authDomain": "clone-84c40.firebaseapp.com",
+			"messagingSenderId": "156007780682",
+			"measurementId": "G-TKVLTNPJXH"
+		}
+	}
+}

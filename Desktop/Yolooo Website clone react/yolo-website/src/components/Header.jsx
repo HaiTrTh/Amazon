@@ -1,4 +1,4 @@
-import React, { useRef, useEffect } from 'react'
+import React, { useRef, useEffect, Component } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import logo from '../assets/images/Logo-2.png'
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp" />

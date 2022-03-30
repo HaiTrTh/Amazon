@@ -1,7 +1,7 @@
 import React, { useCallback, useEffect, useState } from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'react-router-dom'
-import img1 from "../assets/images/slider/slide_1.png"
+// import img1 from "../assets/images/slider/slide_1.png"
 
 import Button from './Button'
 
@@ -97,7 +97,7 @@ const HeroSliderItem = props => (
     </div>
     <div className="hero-slider__item__image">
       <div className={`shape bg-${props.item.color}`}></div>
-      <img src={img1} alt="" />
+      <img src={props.item.img} alt="" />
     </div>
   </div >
 )
